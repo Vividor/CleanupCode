@@ -1,0 +1,6 @@
+review 8 - Method parameters should be less. Please use class object
+review 9 - Doing more, Checking Active, Taking from DB and send Email
+review 10 - 
+review 11 -  
+review 12 - Magic string used, Avoid using it
+review 13 - Remove the unused/Dead code 
