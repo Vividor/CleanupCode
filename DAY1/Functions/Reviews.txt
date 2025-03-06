@@ -1,6 +1,13 @@
+review 1 - It is doing more than one job. It is not Checking session already initialized.
+review 2 - Use a variable in local scope, Variable temp is not explaing what it is storing. 
+review 3 - Use specific condion. Please use a method name like IsDOMNodePresent. Please avoid the not operator (!)
+review 4 - used Magic Numbers, _type variable not explains the context
+review 5 - Avoid using a typeof 
+review 6 - Avoid using bool parameter. Have two seperate method CreateTempFile() and CreateFile()
+review 7 - Writing unit test is difficult for Singleton class
 review 8 - Method parameters should be less. Please use class object
 review 9 - Doing more, Checking Active, Taking from DB and send Email
-review 10 - 
-review 11 -  
+review 10 - Handle method not giving the context. Please give the method name according to what it is doing. It need to more specific and not in generic way
+review 11 - Abstraction of the code is more complex. we need segregate further
 review 12 - Magic string used, Avoid using it
 review 13 - Remove the unused/Dead code 
