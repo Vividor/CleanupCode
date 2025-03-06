@@ -1,0 +1,7 @@
+review1 - Context is not explained
+review2 - Delegate the DB access, Names should be explain the context
+review3 - Hungarian notation is the extra burnden
+review4 - Parameter should starts with camel case and no extra notation
+review5 - No consistent naming conventions
+review6 - No abbr, should be explain in name.
+review7 - variable names are not in camel case 
